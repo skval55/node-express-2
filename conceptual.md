@@ -62,3 +62,4 @@ Answer the following questions below:
 
 - Did you prefer using Flask over Express? Why or why not (there is no right
   answer here --- we want to see how you think about technology)?
+  I like it about the same as flask i would say. i am kinda more drawn to js than python so that would sway me and i like the testing with jest and supertest more.
